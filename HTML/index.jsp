@@ -127,8 +127,6 @@
     <h1>Enter Your Name</h1>
 
     <!-- Input Form -->
-    <!-- Input Form -->
-
     <form action="result.jsp" method="get">
         <input type="text" name="username" placeholder="Your name here..." required />
         <br/><br/>
