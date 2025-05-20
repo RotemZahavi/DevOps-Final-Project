@@ -10,7 +10,7 @@
       "id": "6a5bd3da-8f03-4747-bb62-55a95f7d5a6a",
       "comment": "",
       "command": "open",
-      "target": "/MTAWebApp/index.jsp",
+      "target": "/MTAWebApp/HTML/index.jsp",
       "targets": [],
       "value": ""
     }, {
